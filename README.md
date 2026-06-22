@@ -34,6 +34,4 @@ I enjoy creating web applications, designing user interfaces, and exploring new 
 - GitHub: https://github.com/bliblily
 - Email: liannapperalta@gmail.com
 
----
 
-⭐ Thanks for visiting my profile!
