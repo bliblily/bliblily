@@ -17,11 +17,6 @@ I enjoy creating web applications, designing user interfaces, and exploring new 
 - Figma
 - VS Code
 
-## Current Projects
-
-- ☕ Coffee Tracking Web App
-- 🖌️ Interactive Drawing Photobooth
-
 ## Goals
 
 - Build more full-stack projects
