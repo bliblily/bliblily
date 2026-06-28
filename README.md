@@ -8,15 +8,6 @@
 
 I enjoy creating web applications, designing user interfaces, and exploring new technologies. I am continuously improving my skills in frontend development through personal projects and academic work.
 
-## Technologies & Tools
-
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Figma
-- VS Code
-
 ## Goals
 
 - Build more full-stack projects
